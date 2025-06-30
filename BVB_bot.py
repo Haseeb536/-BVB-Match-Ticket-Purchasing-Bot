@@ -33,9 +33,9 @@ try:
     time.sleep(5)
 
     username_input = driver.find_element(By.XPATH, '//*[@id="text-input-id-0"]')
-    username_input.send_keys("bloodeye369@gmail.com")
+    username_input.send_keys("email")
     password_input = driver.find_element(By.XPATH, '//*[@id="password-input-id-0"]')
-    password_input.send_keys("Superman@12345")
+    password_input.send_keys("password")
     password_input.send_keys(Keys.ENTER)
     time.sleep(10)
 
