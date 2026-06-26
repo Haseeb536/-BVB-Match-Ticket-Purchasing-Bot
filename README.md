@@ -1,12 +1,7 @@
 # ⚽ BVB Match Ticket Purchasing Bot
 
 A Python-based automation script using **SeleniumBase** to automate the ticket purchasing process for Borussia Dortmund matches. The bot navigates the official BVB ticket shop, logs in, selects a match, chooses seats, and captures DOM/SVG snapshots for verification.
-
----
-
-## 📸 Preview
-
-> *Add screenshots of the bot running or the captured output here.*
+s
 
 ---
 
